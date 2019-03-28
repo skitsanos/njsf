@@ -1,5 +1,15 @@
 # Filesystem Data Storage
 
+Data storage engine that utilizes file system to store documents in plain text or JSON documents, allowing querying data as text or via XPath.
+
+### Dependencies
+
+- fs
+- path
+- find-in-files
+- JSONpath
+- defiant.js
+
 ### Initializing
 
 Initializing data storage with default configuration:
