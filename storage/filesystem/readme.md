@@ -59,7 +59,7 @@ storage.search('data')
 
 For more complex queries, over JSON data documents, you would want to use _jsonpath_ or _defiant_ engines and pass your _query_ configuration as object like this:
 
-```json
+```js
 {
     engine: 'defiant',
     query: '//node()[data/text()="ok"]/data'
