@@ -1,0 +1,17 @@
+{
+  "name": "filesystem-data-storage",
+  "description": "File system storage engine for web and cli applications",
+  "version": "1.0.2",
+  "keywords": [
+    "storage",
+    "filesystem",
+    "text",
+    "json",
+    "jsonpath",
+    "xpath",
+    "query"
+  ],
+  "author": "skitsanos",
+  "dependencies": {
+  }
+}
