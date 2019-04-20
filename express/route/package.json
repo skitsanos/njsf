@@ -1,0 +1,10 @@
+{
+  "name": "express-route",
+  "description": "Express.js Route Base Class",
+  "version": "1.0.0",
+  "author": {
+    "name": "Skitsanos"
+  },
+  "dependencies": {
+  }
+}
